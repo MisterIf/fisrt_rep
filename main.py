@@ -7,5 +7,6 @@ def add_numbers():
 
 
 print(f'Result {add_numbers()}')
+print('Test work')
 print('Good bye')
 
