@@ -7,4 +7,5 @@ def add_numbers():
 
 
 print(f'Result {add_numbers()}')
+print('Good bye')
 
